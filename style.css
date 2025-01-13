@@ -477,3 +477,9 @@ footer{
     background-color: #242424;
     padding-block: 40px 60px;
 }
+@media(max-width:768){
+    .idis{
+        width: 300px;
+    }
+
+}
